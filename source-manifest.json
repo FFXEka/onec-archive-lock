@@ -1,0 +1,26 @@
+{
+  "version": "1.13",
+  "originalBinary": "ПолнаяБлокировкаИзмененияАрхивнойБазы_1.13.cfe",
+  "binarySHA256": "160b0ce6f4e4ff746f53906ab7348f2e5738c47512dde10990cb442ad08075ca",
+  "sourceSHA256": {
+    "src/CommonModules/ПолнаяБлокировкаВызовСервера/Ext/Module.bsl": "a6df8c543525a2838f9f33a15245ad429f4c02a488338a9860a62bbb5e620f9e",
+    "src/CommonModules/ПолнаяБлокировкаВызовСервера.xml": "15a0f476b3d3d7f86fae09860ed531242d6312fc745a335d89a563ee87217888",
+    "src/CommonModules/ПолнаяБлокировкаСервер/Ext/Module.bsl": "6357c412b4600949003c561ca873e292de24d1f8d51fb271283a9036d47c3e8f",
+    "src/CommonModules/ПолнаяБлокировкаСервер.xml": "903a501e0be02f49dd7df867908814335ca5e93176b259030cb0cb77e97319a2",
+    "src/CommonModules/ПолнаяБлокировкаСерверПереопределяемый/Ext/Module.bsl": "9f02fe4c3a2b6ea7416800acd12170e89e17f071752e4df72d60fab17d383284",
+    "src/CommonModules/ПолнаяБлокировкаСерверПереопределяемый.xml": "f48ada0f97aaed4ef276cda140d4c5e3681bc68ff7061e44c01c331aa85fa204",
+    "src/ConfigDumpInfo.xml": "6e7f7f11cb1851d1169ecc819bdf8290890604276f4883c5cfa7a427abf0da1e",
+    "src/Configuration.xml": "70d4f3b3963cddf2a12392b17164bcb9f2f479475efbba3c0fde7090a4c0e8eb",
+    "src/EventSubscriptions/ЗапретитьЗаписьБизнесПроцессов.xml": "e8c98b6e06c372c6f0a1cc98c61ed3d3097eae7b4e8e832f3b42e58eeabad9e3",
+    "src/EventSubscriptions/ЗапретитьЗаписьДокументов.xml": "15cb7ddcb988827917668bdafd1bb19cf675f1cfb1da811fc46e9c40399057a1",
+    "src/EventSubscriptions/ЗапретитьЗаписьПерерасчета.xml": "d179430350d18ee9b8406bbede77ceee3f384a82ede8ed469d639496fb690c47",
+    "src/EventSubscriptions/ЗапретитьЗаписьРегистров.xml": "e3149f2becb4ebf0062599ee2e4e7378c54c87d67f736df7f9e624c7fb898128",
+    "src/EventSubscriptions/ЗапретитьЗаписьРегистровРасчета.xml": "4eeaf88c1e09e05b40c35023e7dbd35e63c14fa332b819a36b6eca77868f00b7",
+    "src/EventSubscriptions/ЗапретитьЗаписьСправочнойИнформации.xml": "e7874c0f5e1c60cbbcc19c625ee76c3516ca69926d7bcda69b83a603302c7068",
+    "src/Ext/Logo/Picture.png": "d6f6feb3ee9b8bc49e6368ff6034febe503a8680e2204891e4e354e8b0308519",
+    "src/Ext/Logo.xml": "933ebb965082718a51b186e0be0de25b70e04d35e62366246b782aa4a519429e",
+    "src/Ext/ManagedApplicationModule.bsl": "732c23fc5f72696f2b830d0f6db4c2da95cb8bf98a248a687989a58cf4294a79",
+    "src/Ext/SessionModule.bsl": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+    "src/Languages/Русский.xml": "95e578a6496331df228c9507ec89c14ef7596614efb13cc5a54f2848f34938bb"
+  }
+}
