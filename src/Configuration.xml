@@ -71,7 +71,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Дмитрий Сушков https://infostart.ru/profile/510125/</Vendor>
-			<Version>1.13</Version>
+			<Version>1.15.2.2</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -101,6 +101,8 @@
 			<EventSubscription>ЗапретитьЗаписьРегистров</EventSubscription>
 			<EventSubscription>ЗапретитьЗаписьРегистровРасчета</EventSubscription>
 			<EventSubscription>ЗапретитьЗаписьСправочнойИнформации</EventSubscription>
+			<EventSubscription>ЗапретитьУдалениеСправочнойИнформации</EventSubscription>
+			<EventSubscription>ЗапретитьУдалениеУчетныхОбъектов</EventSubscription>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

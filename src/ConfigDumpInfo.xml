@@ -2,21 +2,23 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ПолнаяБлокировкаВызовСервера" id="9acad1ca-cb0b-4285-9173-ab442bce9bd1" configVersion="b8c82d8f05335b39a5097026dde6ddd2f142d003"/>
-		<Metadata name="CommonModule.ПолнаяБлокировкаВызовСервера.Module" id="9acad1ca-cb0b-4285-9173-ab442bce9bd1.0" configVersion="7ae2eb9c6bee7f02266b5c7509b03aba5ff985f7"/>
+		<Metadata name="CommonModule.ПолнаяБлокировкаВызовСервера.Module" id="9acad1ca-cb0b-4285-9173-ab442bce9bd1.0" configVersion="1da9d58a0dfb6d589c25e593cd3976c2e88aceda"/>
 		<Metadata name="CommonModule.ПолнаяБлокировкаСервер" id="a844a71a-1d41-4281-b164-4cb2e4348ec6" configVersion="2b57967a7eebec14beca0dbbf1bfda3feb264e14"/>
-		<Metadata name="CommonModule.ПолнаяБлокировкаСервер.Module" id="a844a71a-1d41-4281-b164-4cb2e4348ec6.0" configVersion="145aa3cf0cd2e0b7201b313bfbc2148f50f2f729"/>
+		<Metadata name="CommonModule.ПолнаяБлокировкаСервер.Module" id="a844a71a-1d41-4281-b164-4cb2e4348ec6.0" configVersion="175297dec18b2af093d9454b2a3f99b3de869c34"/>
 		<Metadata name="CommonModule.ПолнаяБлокировкаСерверПереопределяемый" id="9cea3eb1-4ef5-469f-94e3-4610a5a8de42" configVersion="2bfea1e9d99f4c42f0d1a4083fc7221dcdec8ca1"/>
-		<Metadata name="CommonModule.ПолнаяБлокировкаСерверПереопределяемый.Module" id="9cea3eb1-4ef5-469f-94e3-4610a5a8de42.0" configVersion="1d7671d6d66c3c07ddfd5bcc71862b02766882f7"/>
-		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы" id="25dc1563-d779-47a9-af9d-753d25874bed" configVersion="2a3f075062d560e635e336103e681af4419cf499"/>
+		<Metadata name="CommonModule.ПолнаяБлокировкаСерверПереопределяемый.Module" id="9cea3eb1-4ef5-469f-94e3-4610a5a8de42.0" configVersion="bf3f3d793c5b60674fb5425973d4ebcde94f13f5"/>
+		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы" id="25dc1563-d779-47a9-af9d-753d25874bed" configVersion="f226e58a1a59a7154c01c2d4a47a913d497799af"/>
 		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы.Logo" id="0cda3ef1-a091-476c-aad2-b1156972a48f.1" configVersion="d5854e5a7c08e3708c2f321f7539387956213af2"/>
-		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы.ManagedApplicationModule" id="0cda3ef1-a091-476c-aad2-b1156972a48f.6" configVersion="f321f2749f08688346fba774d0553aaea644e2ce"/>
-		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы.SessionModule" id="0cda3ef1-a091-476c-aad2-b1156972a48f.7" configVersion="59593480e7cdb227318d58180051372c70333a9e"/>
+		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы.ManagedApplicationModule" id="0cda3ef1-a091-476c-aad2-b1156972a48f.6" configVersion="6570c7824c3195554795b8c27ae446b078682243"/>
+		<Metadata name="Configuration.ПолнаяБлокировкаИзмененияАрхивнойБазы.SessionModule" id="0cda3ef1-a091-476c-aad2-b1156972a48f.7" configVersion="53eef5c38d5e6d674c52ae13c2a11409b5ff2109"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьБизнесПроцессов" id="36694918-ceae-441c-9079-4be7c05e7de0" configVersion="b30c9104eb44dcbf13f3ec6b0b6b0091ebdafae8"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьДокументов" id="55dc243f-0eaf-40fb-bf59-c7f0452f44c1" configVersion="c8b45005b393f3563ab7eab43a8676349790562d"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьПерерасчета" id="31b0c236-b70c-49a3-ae7d-d340f91e11ea" configVersion="f96fb80b96004335ba985f5a51f43a42af87c55e"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьРегистров" id="42f2bf1c-5e50-4c4c-9ea0-585ea8901a2b" configVersion="80444b7c32babb14a9e5fec6d0bbff653fe6d69d"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьРегистровРасчета" id="b1ac920e-1bab-471f-bf2b-ea228250987f" configVersion="eec64cf97184a09413e9341dd777cd7c52b458e3"/>
 		<Metadata name="EventSubscription.ЗапретитьЗаписьСправочнойИнформации" id="f8a31781-3ca1-444d-ae58-5a01665f3598" configVersion="8f3f926062a63df147f8a4cd52da1d252ff57823"/>
+		<Metadata name="EventSubscription.ЗапретитьУдалениеСправочнойИнформации" id="689c3d1f-70ba-43df-9ff6-69b88a5f5e21" configVersion="b0483f311f332664c1de7dff6315249b41cf805b"/>
+		<Metadata name="EventSubscription.ЗапретитьУдалениеУчетныхОбъектов" id="dc683def-aa58-46f5-a2b3-f9e0bacd5bc1" configVersion="3e9f1d029a467576c02bd644089c138b34622abb"/>
 		<Metadata name="Language.Русский" id="9b3e394a-74f5-4c62-b5b2-ccc54afcf7f3" configVersion="d1e9377b11c1330cbee54e941e3737509b2ee744"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
